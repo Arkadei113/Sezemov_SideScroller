@@ -5,6 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Chesster/Documents/Unreal Projects/EldenRussia/Content/sounds/abyss_spells1.uasset",
+				"C:/Users/Chesster/Documents/Unreal Projects/EldenRussia/Content/sounds/abyss_spells1_long.uasset",
+				"C:/Users/Chesster/Documents/Unreal Projects/EldenRussia/Content/sounds/abyss_spells2.uasset",
+				"C:/Users/Chesster/Documents/Unreal Projects/EldenRussia/Content/sounds/choatic_spell1.uasset",
+				"C:/Users/Chesster/Documents/Unreal Projects/EldenRussia/Content/sounds/choatic_spell2.uasset",
+				"C:/Users/Chesster/Documents/Unreal Projects/EldenRussia/Content/sounds/fireball_spell1.uasset",
+				"C:/Users/Chesster/Documents/Unreal Projects/EldenRussia/Content/sounds/fireball_spell2.uasset",
+				"C:/Users/Chesster/Documents/Unreal Projects/EldenRussia/Content/Characters/Mannequin_UE4/Materials/M_MannequinUE4_Body.uasset",
+				"C:/Users/Chesster/Documents/Unreal Projects/EldenRussia/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap",
+				"C:/Users/Chesster/Documents/Unreal Projects/EldenRussia/Content/SideScrollerBP/Blueprints/BP_SideScrollerCharacter.uasset",
 				"P:/alri/Side-Scroller/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap"
 			]
 		}
