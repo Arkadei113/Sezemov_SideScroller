@@ -17,6 +17,13 @@
 			"Enabled": true
 		},
 		{
+
+			"Name": "Riverology_Plugin",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/6f976ebef64c445c97feaa44ff4eda2d"
+		},
+		{
+
 			"Name": "PCG",
 			"Enabled": true
 		},
@@ -27,6 +34,22 @@
 		{
 			"Name": "PCGGeometryScriptInterop",
 			"Enabled": true
+
+		},
+		{
+			"Name": "HTN",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/29560d88937e4cd1a435f4b634890655"
+		},
+		{
+			"Name": "DynamicAISystem",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/7c03a2d0034e4ce7a2a23baff6fa6a1c"
+		},
+		{
+			"Name": "promethean",
+			"Enabled": false
+
 		}
 	]
 }
